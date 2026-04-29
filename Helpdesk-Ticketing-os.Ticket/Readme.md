@@ -135,4 +135,5 @@ How asset management integrates with the helpdesk workflow — tracking hardware
 
 About Me
 B.Tech Computer Science & IT | Google IT Support Professional Certificate
+This project is part of my IT Support portfolio demonstrating hands-on experience with enterprise helpdesk tools, ITIL-aligned ticketing workflows, and real-world IT support scenarios.
  
